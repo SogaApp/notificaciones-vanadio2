@@ -1,5 +1,5 @@
 {
-  "name" : "ju4nr3v0l/notificaciones-vanadio",
+  "name" : "SogaApp/notificaciones-vanadio",
   "license": "MIT",
   "description" : "notificaciones - vanadio",
   "type" : "symfony-bundle",
@@ -7,8 +7,8 @@
     "name" : "Maximilien Gilet ",
     "email" : "maximilien248@gmail.com"
   }, {
-    "name": "Juan David Marulanda V.",
-    "email":  "desarrollo2@appsoga.com"
+    "name": "App Soga.",
+    "email":  "jefedesarrollo@appsoga.com"
   }],
   "keywords" : [
     "symfony notification bundle simple"
