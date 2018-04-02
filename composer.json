@@ -1,5 +1,5 @@
 {
-  "name" : "SogaApp/notificaciones-vanadio",
+  "name" : "sogabundle/notificaciones-vanadio",
   "license": "MIT",
   "description" : "notificaciones - vanadio",
   "type" : "symfony-bundle",
