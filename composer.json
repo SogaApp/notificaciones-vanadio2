@@ -1,11 +1,14 @@
 {
-  "name" : "mgilet/notification-bundle",
+  "name" : "ju4nr3v0l/notificaciones-vanadio",
   "license": "MIT",
-  "description" : "A simple Symfony 3 bundle for user notifications",
+  "description" : "notificaciones - vanadio",
   "type" : "symfony-bundle",
   "authors" : [{
-    "name" : "Maximilien Gilet",
+    "name" : "Maximilien Gilet ",
     "email" : "maximilien248@gmail.com"
+  }, {
+    "name": "Juan David Marulanda V.",
+    "email":  "desarrollo2@appsoga.com"
   }],
   "keywords" : [
     "symfony notification bundle simple"
